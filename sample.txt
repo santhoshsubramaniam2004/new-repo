@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+ <head>
+   <title>
+      sample text
+   </title>
+   <body>
+      this is a sample text
+   </body>
+ </head>
+</html>
